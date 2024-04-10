@@ -1,0 +1,8 @@
+[submodule "reddit-clone-service"]
+	path = reddit-clone-service
+	url = https://github.com/phuongnt-git/reddit-clone-service
+	branch = master
+[submodule "reddit-clone-ui"]
+	path = reddit-clone-ui
+	url = https://github.com/phuongnt-git/reddit-clone-ui
+	branch = master
